@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは. 野口碧矢です</h1>
+<h1 align="center">こんにちは 野口碧矢です</h1>
 <h3 align="center">私は東京の大学生でプログラミングを勉強しています</h3>
 
 <h3 align="left">言語とツール:</h3>
