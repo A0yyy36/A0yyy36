@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは 野口碧矢です</h1>
+<h1 align="center">Aoya's README</h1>
 <h3 align="center">千葉工業大学情報科学部情報工学科4年生です</h3>
 
 <div style="display: flex;">
