@@ -26,8 +26,9 @@
 
 <h4 align="left">📁Frameworks & Libraries</h4>
 <p align="left">
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/> </A> 
   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> </A> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </A> 
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/> </A> 
 </p>
 
 <h4 align="left">🔧Tools</h4>
