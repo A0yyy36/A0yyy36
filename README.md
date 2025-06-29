@@ -24,9 +24,10 @@
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </A> 
 </p>
 
-<h4 align="left">📁Frameworks</h4>
+<h4 align="left">📁Frameworks & Libraries</h4>
 <p align="left">
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/> </A> 
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> </A> 
 </p>
 
 <h4 align="left">🔧Tools</h4>
@@ -36,15 +37,16 @@
     <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/> </A> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </A> 
 </p>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </A>
 
 <h4 align="left">📱Software</h4>
 <p align="left">
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </A>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </A>
+  <a href="https://podman.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" alt="podman" width="40" height="40"/> </A>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </A> 
   <a href="https://developer.android.com/?hl=en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> </A> 
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </A> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </A> 
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> </A> 
+  
 </p>
 
 <h4 align="left">⚙️Operating Systems</h4>
