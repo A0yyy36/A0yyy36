@@ -1,5 +1,5 @@
 <h1 align="center">Aoya's README</h1>
-<h3 align="center">千葉工業大学情報科学部情報工学科4年生です</h3>
+<h3 align="center">私立理工系大学CS学科4年生です</h3>
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A0yyy36&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
