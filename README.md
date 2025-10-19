@@ -1,10 +1,17 @@
 <h1 align="center">Aoya's README</h1>
 <h3 align="center">千葉工業大学情報科学部情報工学科 4年生です</h3>
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A0yyy36&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
-  <img src="https://github-readme-stats.vercel.app/api?username=A0yyy36&show_icons=true&locale=en&theme=chartreuse-light" alt="ovi" width="410" />
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=A0yyy36&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=A0yyy36&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=A0yyy36&show_icons=true" />
+</picture>
 
 <img src="https://github-profile-trophy.vercel.app/?username=A0yyy36&theme=juicyfresh&no-bg=true" />
 
