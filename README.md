@@ -1,5 +1,5 @@
 <h1 align="center">Aoya's README</h1>
-<h3 align="center">千葉工業大学情報科学部情報工学科 4年生です</h3>
+<h3 align="center">大学で情報工学を学び，SE職に就いています．</h3>
 
 <picture>
   <source
