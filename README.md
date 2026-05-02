@@ -1,6 +1,8 @@
 <h1 align="center">Aoya's README</h1>
 <h3 align="center">大学で情報工学を学び，独立系SIerでSE職として働いています．</h3>
 
+Check out my [portfolio](https://a0yyy36.github.io/my-garden/).
+
 <picture>
   <source
     srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=A0yyy36&show_icons=true&theme=dark"
