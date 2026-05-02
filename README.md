@@ -1,5 +1,6 @@
-<h1 align="center">Aoya's README</h1>
-<h3 align="center">大学で情報工学を学び，独立系SIerでSE職として働いています．</h3>
+<h1 align="left">Aoya's README</h1>
+<h3 align="left">I studied Information Engineering at university and <br>
+  currently work as a Systems Engineer at an independent SIer in Japan.  </h3>
 
 Check out my [portfolio](https://a0yyy36.github.io/my-garden/).
 
